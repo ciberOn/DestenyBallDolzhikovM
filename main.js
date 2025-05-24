@@ -10,7 +10,6 @@ const arrVariants = [
     "i think another time",
     "it's will be easy",
     "i can not say now",
-    "Байден",
 ]
 
 const btn = document.getElementById("btn")
